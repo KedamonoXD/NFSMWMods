@@ -12,7 +12,7 @@ Simple lighting ReShade: https://nfsmods.xyz/mod/3804
 
 X360 Visuals: https://nfsmods.xyz/mod/605
 
-Modern Rockport: https://www.mediafire.com/file/fn7zlwu0vxu3jup/Modern_Rockport_1.0.rar/file
+Modern Rockport: https://mega.nz/file/bT4X2Z5B#zJ9jiXSCU7GyrE9rWsAufjRbwFrW3nV1rvSdH_mWYQs
 
 Fluent Track Barriers: https://nfsmods.xyz/mod/3203
 
