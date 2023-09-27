@@ -6,6 +6,8 @@ HUD Adapter: https://nfsmods.xyz/mod/638
 
 Interfaz HD: https://nfsmods.xyz/mod/1096
 
+Binary(para instalar la interfaz): https://github.com/SpeedReflect/Binary/releases/tag/v2.8.3
+
 Extra Options: https://github.com/ExOptsTeam/NFSMWExOpts/releases
 
 Simple lighting ReShade: https://nfsmods.xyz/mod/3804
